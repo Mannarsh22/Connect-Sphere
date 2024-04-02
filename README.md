@@ -13,3 +13,5 @@ Behind the Scenes:
 ConnectSphere leverages an expansive database to store user information, posts, comments, likes, group memberships, and more. This foundation ensures a seamless and enriching user experience, with advanced features for privacy management and content recommendations.
 
 Thank you for choosing ConnectSphere. Together, let's build a more connected world.
+
+By Mannarsh Singh Bali 
